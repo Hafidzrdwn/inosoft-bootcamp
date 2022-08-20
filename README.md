@@ -1,4 +1,4 @@
 # Inosoft-bootcamp
 repo for inosoft bootcamp
 
-tambah kalimat baru.
+tambah kalimat baru disini.
